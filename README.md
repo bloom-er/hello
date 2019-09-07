@@ -1,3 +1,3 @@
-# hello
-excerise
-I am trying to use github.
+# One step one day
+一、初识这片天地
+  希望我能逐渐了解这片神秘的地方——对于现在的我，万事开头难，慢慢来加油。
